@@ -1,5 +1,5 @@
 {
-    "framework": "jasmine",
+    "framework": "jasmine2",
     "serve_files": [
         "node_modules/lodash/index.js",
         "node_modules/jquery/dist/jquery.min.js",
