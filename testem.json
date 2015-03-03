@@ -1,0 +1,14 @@
+{
+    "framework": "jasmine",
+    "serve_files": [
+        "node_modules/lodash/index.js",
+        "node_modules/jquery/dist/jquery.min.js",
+        "src/**/*.js",
+        "test/**/*.js"
+    ],
+    "watch_files": [
+        "src/**/*.js",
+        "test/**/*.js"
+    ],
+    "launch_in_dev": ["PhantomJS"]
+}

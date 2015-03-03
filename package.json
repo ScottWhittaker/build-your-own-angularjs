@@ -1,0 +1,15 @@
+{
+  "name": "build-your-own-angularjs",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.2",
+    "jasmine": "^2.2.1",
+    "jshint-stylish": "^1.0.1",
+    "testem": "^0.7.1"
+  },
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "lodash": "^3.3.1"
+  }
+}
